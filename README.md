@@ -10,7 +10,7 @@ It uses **speech recognition + text-to-speech + OS/web integration**.
 
 ---
 
-## 📂 **Breakdown of the Code**
+##  **Breakdown of the Code**
 
 ### 1. **Imports**
 
